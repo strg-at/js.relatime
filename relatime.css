@@ -1,0 +1,4 @@
+.strg-relatime:not(:hover) *,
+.strg-relatime:hover .strg-relatime__relative {
+    display: none;
+}
